@@ -73,7 +73,7 @@ private fun segment(radius: BigDecimal, segmentHeight: BigDecimal): BigDecimal {
     return segmentSquare
 }
 
-fun main(args: Array<String>) {
+fun main() {
     println(2940 == tankVol(5, 7, 3848))
     println(245 == tankVol(1, 4, 1256))
 }
