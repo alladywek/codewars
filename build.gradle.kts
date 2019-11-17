@@ -18,6 +18,7 @@ tasks.withType<Test> {
 dependencies {
     compile(kotlin("stdlib-jdk8"))
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.3.2")
+    implementation("org.http4k:http4k-core:3.196.0")
 
     testImplementation("io.kotlintest:kotlintest-runner-junit5:3.4.2")
 }
