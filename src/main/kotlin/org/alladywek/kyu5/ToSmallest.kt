@@ -1,4 +1,4 @@
-package org.alladywekjd.codewars.kyu5
+package org.alladywek.kyu5
 
 import kotlin.math.absoluteValue
 

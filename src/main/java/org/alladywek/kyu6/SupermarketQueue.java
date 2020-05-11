@@ -1,4 +1,4 @@
-package org.alladywekjd.kyu6;
+package org.alladywek.kyu6;
 
 import java.util.PriorityQueue;
 import java.util.stream.IntStream;

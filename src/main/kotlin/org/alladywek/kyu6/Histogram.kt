@@ -1,4 +1,4 @@
-package org.alladywekjd.codewars.kyu6
+package org.alladywek.kyu6
 
 fun hist(s: String): String {
     return s.filter { it in "uwxz" }

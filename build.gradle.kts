@@ -1,9 +1,9 @@
 
 plugins {
-    kotlin("jvm") version "1.3.50"
+    kotlin("jvm") version "1.3.72"
 }
 
-group = "com.alladywekjd"
+group = "com.alladywek"
 version = "1.0"
 
 repositories {

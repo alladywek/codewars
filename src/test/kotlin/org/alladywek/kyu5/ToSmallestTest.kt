@@ -1,7 +1,6 @@
-package org.alladywekjd.codewars.kyu6
+package org.alladywek.kyu5
 
 import io.kotlintest.specs.StringSpec
-import org.alladywekjd.codewars.kyu5.ToSmallest
 import org.junit.jupiter.api.Assertions.assertEquals
 
 class ToSmallestTest : StringSpec() {
